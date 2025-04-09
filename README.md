@@ -2,6 +2,22 @@
 This repository is all about applying a thermostat to MD simulations.
 
 # Directory Structure
+.
+├── LICENSE
+├── problem1
+│   └── Part1_2.ipynb
+├── problem2
+│   └── Part2.ipynb
+├── problem3
+│   ├── cython
+│   └── python
+├── problem4
+│   ├── cython
+│   └── python
+├── README.md
+└── utils
+    └── barplot.py
+
 
 # Simulation trajectory from MD simulation
 The trajectory video from the MD simulation is given below.
