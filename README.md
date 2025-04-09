@@ -1,6 +1,7 @@
 # Thermostats-and-MC-simulation
 This repository is all about applying a thermostat to MD simulations.
 
+
 # Directory Structure
 ```
 .
@@ -19,6 +20,13 @@ This repository is all about applying a thermostat to MD simulations.
 └── utils
     └── barplot.py
 ```
+# How to run
+### For .ipynb files,  
+Go to the <base_directory/problemdir/ > directory and run it with jupyter-lab
+
+### For python files,
+Go to the <base_directory/problemdir/python/ > and run   
+python3 
 # Configuration and Control varaible description
 For Problem 1
 ```
