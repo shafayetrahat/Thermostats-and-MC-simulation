@@ -19,7 +19,19 @@ This repository is all about applying a thermostat to MD simulations.
 └── utils
     └── barplot.py
 ```
-
+# Configuration and Control varaible description
+For Problem 1
+```
+```
+For Problem 2
+```
+```
+For Problem 3
+```
+```
+For Problem 4
+```
+```
 # Simulation trajectory from MD simulation
 The trajectory video from the MD simulation is given below.
 
