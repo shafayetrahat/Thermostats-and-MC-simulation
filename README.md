@@ -1,6 +1,26 @@
 # Thermostats-and-MC-simulation
 This repository is about applying a thermostat to MD simulations and comparing MD simulation with MC simulation
 
+# Dependencies
+Cython==3.0.12
+matplotlib==3.7.2
+matplotlib-inline==0.1.6
+ipykernel==6.21.1
+ipython==8.10.0
+jupyter==1.0.0
+jupyter-console==6.5.0
+jupyter-events==0.5.0
+jupyter-ydoc==0.2.2
+jupyter_client==8.0.2
+jupyter_core==5.2.0
+jupyter_server==2.2.1
+jupyter_server_fileid==0.6.0
+jupyter_server_terminals==0.4.4
+jupyter_server_ydoc==0.6.1
+jupyterlab==3.6.1
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.5
+jupyterlab_server==2.19.0
 
 # Directory Structure
 ```
