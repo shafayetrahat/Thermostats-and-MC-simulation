@@ -1,5 +1,5 @@
 # Thermostats-and-MC-simulation
-This repository is all about applying a thermostat to MD simulations.
+This repository is about applying a thermostat to MD simulations and comparing MD simulation with MC simulation
 
 
 # Directory Structure
