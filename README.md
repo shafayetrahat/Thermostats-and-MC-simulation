@@ -2,6 +2,7 @@
 This repository is about applying a thermostat to MD simulations and comparing MD simulation with MC simulation
 
 # Dependencies
+```
 Cython==3.0.12
 matplotlib==3.7.2
 matplotlib-inline==0.1.6
@@ -21,7 +22,7 @@ jupyterlab==3.6.1
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 jupyterlab_server==2.19.0
-
+```
 # Directory Structure
 ```
 .
