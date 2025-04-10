@@ -24,21 +24,64 @@ This repository is all about applying a thermostat to MD simulations.
 ### For .ipynb files,  
 Go to the <base_directory/problemdir/ > directory and run it with jupyter-lab
 
-### For python files,
+### For Python files,
 Go to the <base_directory/problemdir/python/ > and run   
-python3 
-# Configuration and Control varaible description
+python3 <filename.py>
+
+### For Cython files,
+To compile Cython file,
+Go to the <base_directory/problemdir/cython/ > and run 
+- python setup.py build_ext --inplace
+To run the simulation, go to the <base_directory/problemdir/cython/ > and run, 
+- python3 main.py
+  
+# Configuration and Control variable description
 For Problem 1
 ```
+Described inside the .ipynb file
 ```
 For Problem 2
 ```
+Described in the .ipynb file
 ```
 For Problem 3
 ```
+n_particles
+    - total number of LJ particles
+dimensions
+    - Dimension of the box
+density
+    - Density of the box. N/L^2
+
+T
+    - Temperature
+
+steps
+    - Total steps of the simulation
+dt
+    - Timestep
+
+Other optional flags are described in the Appendix section of the report. 
+
 ```
 For Problem 4
 ```
+N
+    - Number of particles
+L
+    - Box length
+T
+    - Temperature
+rc
+    - Cutoff distance
+max_disp
+    - Maximum displacement radius
+steps
+    - Total MC steps
+equil_steps
+    - Equilibration steps
+sample_freq
+    - Sampling frequency
 ```
 # Simulation trajectory from MD simulation
 The trajectory video from the MD simulation is given below.
